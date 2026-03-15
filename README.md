@@ -1,1 +1,1 @@
-# nirmz.journeys
+# Jorney with nirmz
